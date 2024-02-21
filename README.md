@@ -13,15 +13,15 @@ function myFunction() {
 var x = document.getElementById("myText").value;
 var y = 1;
   while(y <= x){
-    document.write ("<p>Mã sinh viên/n</p>");
+    document.write ("<p>Mã sinh viên</p>");
     <input type="text" value="">
-    document.write ("<p>Họ và tên/n</p>");
+    document.write ("<p>Họ và tên</p>");
     <input type="text" value="">
-    document.write ("<p>Ngày tháng năm sinh/n</p>");
+    document.write ("<p>Ngày tháng năm sinh</p>");
     <input type="text" value="">
-    document.write ("<p>Lớp học/n</p>");
+    document.write ("<p>Lớp học</p>");
     <input type="text" value="">
-    document.write ("<p>Điểm GPA/n</p>");
+    document.write ("<p>Điểm GPA</p>");
     <input type="text" value="">
     y++;
 }
