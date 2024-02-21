@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <h1> Danh sách sinh viên </h1>
@@ -16,10 +15,11 @@ var y = 1;
   while(y <= x){
     document.write ("Mã sinh viên");
     document.write ("Họ và tên");
-    document.write ("Ngày tháng năm sinh"):
-    document.write ("Lớp học"):
-    document.write ("Điểm GPA"):
-    y++
+    document.write ("Ngày tháng năm sinh");
+    document.write ("Lớp học");
+    document.write ("Điểm GPA");
+    y++;
+}
 }
 </script>
 
