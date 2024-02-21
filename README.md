@@ -1,9 +1,10 @@
 <html>
 <head>
+<h1> Danh sách sinh viên </h1>
 </head>
 
   
 <body>
-<h1> Danh sách sinh viên </h1>
+<p>Nhập số sinh viên</p>
 </body>
 </html>
