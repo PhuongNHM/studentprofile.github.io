@@ -14,11 +14,11 @@ function myFunction() {
 var x = document.getElementById("myText").value;
 var y = 1;
   while(y <= x){
-    console.log ("Mã sinh viên");
-    console.log ("Họ và tên");
-    console.log ("Ngày tháng năm sinh"):
-    console.log ("Lớp học"):
-    console.log ("Điểm GPA"):
+    document.write ("Mã sinh viên");
+    document.write ("Họ và tên");
+    document.write ("Ngày tháng năm sinh"):
+    document.write ("Lớp học"):
+    document.write ("Điểm GPA"):
     y++
 }
 </script>
