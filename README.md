@@ -13,8 +13,8 @@ function myFunction() {
 var x = document.getElementById("myText").value;
 var y = 1;
   while(y <= x){
-    document.write ("Mã sinh viên");
-    document.write ("Họ và tên");
+    document.write ("<p>Mã sinh viên</p>");
+    document.write ("<p>Họ và tên</p>");
     document.write ("Ngày tháng năm sinh");
     document.write ("Lớp học");
     document.write ("Điểm GPA");
