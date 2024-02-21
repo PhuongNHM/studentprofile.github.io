@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
 <h1> Danh sách sinh viên </h1>
